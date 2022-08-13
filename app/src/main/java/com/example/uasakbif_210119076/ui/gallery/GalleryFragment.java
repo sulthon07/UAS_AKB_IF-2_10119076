@@ -1,5 +1,7 @@
 package com.example.uasakbif_210119076.ui.gallery;
-
+//  NIM     : 10119076
+//  Nama    : Sulthon Naufal Akmal
+//  Kelas   : IF2
 import android.app.AlertDialog;
 import android.content.DialogInterface;
 import android.content.Intent;

@@ -1,5 +1,7 @@
 package com.example.uasakbif_210119076.ui.gallery;
-
+//  NIM     : 10119076
+//  Nama    : Sulthon Naufal Akmal
+//  Kelas   : IF2
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;

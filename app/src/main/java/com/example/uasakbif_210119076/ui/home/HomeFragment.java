@@ -1,5 +1,7 @@
 package com.example.uasakbif_210119076.ui.home;
-
+//  NIM     : 10119076
+//  Nama    : Sulthon Naufal Akmal
+//  Kelas   : IF2
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
